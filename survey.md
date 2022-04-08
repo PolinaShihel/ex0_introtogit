@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Lilac
+Favorite food: Hamburgers
+Favorite musician/band: FINNEAS	
+Favorite movie: Deadpool
+Requested grade in the course: 95
